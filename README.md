@@ -18,4 +18,5 @@
     <li>Tailwind</li>
     <li>Bulma</li>
   </ol></li>
+  <li>Figma</li>
 </ul>
