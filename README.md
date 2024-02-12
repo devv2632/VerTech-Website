@@ -18,5 +18,5 @@
     <li>Tailwind</li>
     <li>Bulma</li>
   </ol></li>
-  <li>Figma</li>
+  <li>Figma - to create designs</li>
 </ul>
